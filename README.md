@@ -6,4 +6,4 @@ This item increments the ID of the other passive items in the user's inventory a
 Adds a new challenge:
 The user starts with gun game and has to make it to Mom's Heart.
 
-This is intended to be a fun, chaotic challenge item.
+This is intended to be a fun, chaotic challenge item
